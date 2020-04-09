@@ -1,0 +1,5 @@
+com\learning\product\dao\ProductDao.class
+com\learning\product\bo\ProductBO.class
+com\learning\product\bo\ProductBOImpl.class
+com\learning\product\dto\Product.class
+com\learning\product\dao\ProductDaoImpl.class
